@@ -24,9 +24,7 @@ public class JewelryTest extends BaseClass{
 		
 		//Takes Screenshot on Diamond Heart
 		getScreenshotOfWebElement(jewelryPage.getBlackAndWhiteDiamondHeartImage());
-		
-	   //String str="hi";
-		//swathi framework
+	
 	}
 
 }
