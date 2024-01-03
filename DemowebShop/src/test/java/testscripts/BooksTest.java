@@ -14,6 +14,8 @@ public class BooksTest extends BaseClass{
 	
 	@Test
 	public void verifyBookPage_001() {
+
+		//swathi
 		HomePage homePage = new HomePage(driver);
 		BookPage bookPage = new BookPage(driver);
 		Reporter.log("Verify books page", true);
